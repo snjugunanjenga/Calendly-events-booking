@@ -1,6 +1,6 @@
 # 📅 Build and Deploy a Calendly Clone
 
-This project-based course walks you through building a full-stack Calendly clone from scratch using **Next.js 14**, **Clerk** for authentication, **Tailwind CSS**, and a modern tech stack. 
+This project-based course walks you through building a full-stack Calendly clone from scratch using **Next.js 15**, **Clerk** for authentication, **Tailwind CSS**, and a modern tech stack. 
 
 You’ll learn how to:
 - Create and manage event types
