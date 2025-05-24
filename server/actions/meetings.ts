@@ -37,7 +37,7 @@ export async function createMeeting(
       throw new Error("Event not found.");
     }
 
-    // Convert the start time from the user's timezone to the server's timezone
+    // Interpret the start time as being in the user's timezone and convert it to a UTC Date
     const startInTimezone = fromZonedTime(data.startTime, data.timezone);
 
     // Check if the selected time is valid for the event's availability
