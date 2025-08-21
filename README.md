@@ -12,6 +12,15 @@ You’ll learn how to:
 
 Visit the deployed app here: [https://calendly-events-booking.vercel.app/](https://calendly-events-booking.vercel.app/)
 
+## Screenshots
+
+Here are some previews of the app:
+
+![landing-page](screenshots/landing-page.png)
+![public-profile](screenshots/public-profile.png)
+![schedule-page](screenshots/schedule-page.png)
+![events-page](screenshots/events-page.png)
+
 Perfect for developers looking to sharpen their full-stack skills with real-world functionality.
 
 
