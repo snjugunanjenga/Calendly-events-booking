@@ -8,4 +8,10 @@ You’ll learn how to:
 - Handle full-stack logic using server actions
 - Deploy your app to the web using **Vercel**
 
+# Calendly Event Booking App
+
+Visit the deployed app here: [https://calendly-events-booking.vercel.app/](https://calendly-events-booking.vercel.app/)
+
 Perfect for developers looking to sharpen their full-stack skills with real-world functionality.
+
+
