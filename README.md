@@ -20,6 +20,7 @@ Here are some previews of the app:
 ![public-profile](screenshots/public-profile.png)
 ![schedule-page](screenshots/schedule-page.png)
 ![events-page](screenshots/events-page.png)
+![client-side](screenshots/client-side.png)
 
 Perfect for developers looking to sharpen their full-stack skills with real-world functionality.
 
